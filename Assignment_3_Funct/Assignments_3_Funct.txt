@@ -1,0 +1,11 @@
+1.Try reimplementing the factorial function using either a while loop or an iterator. Which do you think is better? Which do you think is easier to understand?
+
+2.Write a function which squares a number and then use it to write a function which takes three integers and returns the sum of their squares.
+
+3.Write a function which prints the natural numbers less than  nn  which are divisible by 3, divisible by 5 but not divisible by 10.
+
+4.Write a Python program to print the even numbers from a given list.
+
+
+
+
